@@ -1,4 +1,15 @@
 <<<<<<< HEAD
+function  🍞💩🍞() {
+  console.log('dookieSammich')
+}
+🍞💩🍞()
+// Seth Brown
+
+function whatsYourFunction(functions){
+  return whatsYourFunction(functions);
+}
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 document.addEventListener("DOMContentLoaded",()=>{
   let bdy = document.getElementsByTagName("body")[0]
@@ -12,3 +23,4 @@ function dookieSammich () {
   console.log('🍞💩🍞')
 }
 dookieSammich()
+>>>>>>> 38f3aab29fb2ddf6efc7b31fe714989ad1d46fd6
