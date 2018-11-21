@@ -1,0 +1,13 @@
+@keyframes spin {
+  100% {
+    transform: rotate(360deg) !important;
+  }
+}
+
+body {
+  font-size: 200px;
+}
+
+h1{
+  font-size: 10% !important;
+}
