@@ -1,7 +1,10 @@
 
-@@keyframes spin {
-  100%{
-    transform: rotate(360deg);
+
+@keyframes spin {
+
+
+  100% {
+    transform: rotate(360deg) !important;
   }
 }
 
@@ -9,4 +12,7 @@ body {
   font-size: 200px;
 }
 
-/* Seth Brown */
+
+h1{
+  font-size: 10% !important;
+}
