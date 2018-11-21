@@ -1,4 +1,12 @@
+
+@@keyframes spin {
+  100%{
+    transform: rotate(360deg);
+  }
+}
+
 body {
   font-size: 200px;
 }
+
 /* Seth Brown */
