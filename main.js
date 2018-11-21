@@ -1,8 +1,8 @@
 
-function  🍞💩🍞() {
+function  dookum() {
   console.log('dookieSammich')
 }
-🍞💩🍞()
+dookum()
 
 
 function whatsYourFunction(functions){
