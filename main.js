@@ -1,7 +1,9 @@
-function dookieSammich () {
-  console.log('🍞💩🍞')
+function  🍞💩🍞() {
+  console.log('dookieSammich')
 }
-dookieSammich()
+🍞💩🍞()
 // Seth Brown
 
-YOU DELETED OUR CODE
+function whatsYourFunction(functions){
+  return whatsYourFunction(functions);
+}
