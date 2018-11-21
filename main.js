@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 function  🍞💩🍞() {
   console.log('dookieSammich')
 }
@@ -8,9 +7,6 @@ function  🍞💩🍞() {
 function whatsYourFunction(functions){
   return whatsYourFunction(functions);
 }
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
 document.addEventListener("DOMContentLoaded",()=>{
   let bdy = document.getElementsByTagName("body")[0]
   bdy.addEventListener("click",(e)=>{
@@ -23,4 +19,3 @@ function dookieSammich () {
   console.log('🍞💩🍞')
 }
 dookieSammich()
->>>>>>> 38f3aab29fb2ddf6efc7b31fe714989ad1d46fd6
