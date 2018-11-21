@@ -1,10 +1,9 @@
 
-<<<<<<< HEAD
+
 @keyframes spin {
-=======
-@@keyframes spin {
->>>>>>> 2a4fc00150d18068ba2c2f93e8dbbfd59ab38982
-  100%{
+
+
+  100% {
     transform: rotate(360deg) !important;
   }
 }
@@ -13,10 +12,7 @@ body {
   font-size: 200px;
 }
 
-<<<<<<< HEAD
+
 h1{
   font-size: 10% !important;
 }
-=======
-/* Seth Brown */
->>>>>>> 2a4fc00150d18068ba2c2f93e8dbbfd59ab38982
